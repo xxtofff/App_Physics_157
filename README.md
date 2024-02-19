@@ -1,1 +1,1 @@
-Hello hoomans
+This GitHub repository contains my outputs for my Applied Physics 157 course. Also included within the **Lab Assignments** folder are my explorations for some toy datasets mainly obtained from Kaggle. 
